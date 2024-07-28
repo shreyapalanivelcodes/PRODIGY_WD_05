@@ -18,3 +18,6 @@ This is a simple weather application that allows users to search for the current
 ## License
 
 This project is licensed under the MIT License.
+
+#DEPLOYMENT 
+https://shreyapalanivelcodes.github.io/PRODIGY_WD_05/
